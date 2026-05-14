@@ -2,6 +2,16 @@
 
 ** 극악의 난이도**로 알려진 서울시 공공서비스 예약 정보를 수집하고 텔레그램으로 알림을 전송합니다.
 
+---
+
+## **라이브 서비스**
+
+### **[➡️ https://seoulscrapapp-ctvc2rakdlyoy5flwn5rff.streamlit.app/](https://seoulscrapapp-ctvc2rakdlyoy5flwn5rff.streamlit.app/)**
+
+현재 운영 중인 실제 서비스입니다. 위 링크를 통해 바로 접속할 수 있습니다.
+
+---
+
 ## 기능
 
 - 서울시 공공서비스 예약 정보 수집
